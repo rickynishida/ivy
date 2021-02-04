@@ -1,2 +1,2 @@
-# ivy
+# Ivy
 Virtual Assistant in Python
